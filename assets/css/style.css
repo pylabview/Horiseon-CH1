@@ -34,6 +34,7 @@ body {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
+    padding-bottom: 5px;
 }
 
 a {
@@ -45,11 +46,10 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.marketing-meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
